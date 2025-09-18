@@ -153,19 +153,12 @@ The interface provides comprehensive progress tracking:
 3. **For Memory**: Keep dimensions ≤ 512px and use CPU offloading
 4. **For Consistency**: Use fixed seeds for reproducible results
 
-## 📁 Project Structure
+## Sample Input:
+A complete view of a 45 degree angle parked Dark Blue Lamborghini Revuelto with red and white double stripes in the middle and with a scenic city night background behind
 
-```
-memory-optimized-stable-diffusion/
-├── main.py                 # Main application script
-├── requirements.txt        # Python dependencies
-├── README.md              # This file
-├── examples/              # Example prompts and outputs
-│   ├── basic_prompts.txt
-│   └── sample_outputs/
-└── docs/                  # Additional documentation
-    ├── installation.md
-    └── troubleshooting.md
+## Sample Output:
+![image](https://github.com/user-attachments/assets/aa45c0ce-d50f-48bb-91d8-d474ef8507c2)
+
 ```
 
 ## 🤝 Contributing
